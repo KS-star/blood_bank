@@ -5,8 +5,8 @@
 2. Make new folder name bbdms and put every file except bbdms.sql in it.
 
 3. Now copy the folder and paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/HTML)
-
-4.Open PHPMyAdmin (http://localhost/phpmyadmin)
+   
+4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
 5. Create a bbdms with the name bbdms
 
